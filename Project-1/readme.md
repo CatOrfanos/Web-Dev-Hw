@@ -1,6 +1,6 @@
  # My First README.md
  ---
- ***Catherine Orfanos*** 
+ ***Catherine Orfanos***
 
  This is my first readme and my encounter with all this new technology, I am definetly **overwhlemed!**
 
@@ -20,7 +20,7 @@
  This is my first time on [GitHub](https://github.com) so I am learning alot as I go.
 
 
- I do think I am a well organized person so I feel good in the fact that I can keep all my projects in order. My files are arraged well, ![Screenshot Of my Directory](./images/screenshot-1.png)
+ I do think I am a well organized person so I feel good in the fact that I can keep all my projects in order. My files are arraged well, ![Screenshot Of my Directory](./Images/screenshot-1.png)
  *I am excited to get started with more projects!*
 
  || Can't wait to see what the rest of the semester holds! ||
