@@ -1,6 +1,6 @@
  # My First README.md
  ---
- <h2> ***Catherine Orfanos***
+ ***Catherine Orfanos*** 
 
  This is my first readme and my encounter with all this new technology, I am definetly **overwhlemed!**
 
