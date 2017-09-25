@@ -1,7 +1,7 @@
->**Starting my Seond Project**
+# **Starting my Seond Project**
 ___
->>*By: Catherine Orfanos*
->>>**What I've Leanred this week:**
+## *By: Catherine Orfanos*
+### **What I've Leanred this week:**
 - Reading all the information on the website and following the instructions. I've created my readme and my index.html and saved them in my project 2 folder.
 
 
@@ -37,9 +37,9 @@ ___
 - I learned about Sematic Markup
   1. The emphaisis the the writen text
 
->>>**And Now its time to Start My porject!**
->>>>I am going to be making my porject about "How to make the best brownies!"
->>>> First I need to do some research on my topic and start with the basic first few lines of my index.html. The doctype, my title. I am getting slightly confused with the head and body lables.... and im not sure if I am doing them **correctly!**
+### **And Now its time to Start My porject!**
+I am going to be making my porject about "How to make the best brownies!"
+>First I need to do some research on my topic and start with the basic first few lines of my index.html. The doctype, my title. I am getting slightly confused with the head and body lables.... and im not sure if I am doing them **correctly!**
 - I also am struggleing to figure out how to link website again! ugh!!!
 - Ok, well now I have fugured out the link, I was accedently typing in the wrong link basically and didn't realized that CAPS mattered!
   - But now I went back in to update some of my work, and the link isn't updating, so I'm not sure if it just takes a second to do? or if I did domthing wrong!
