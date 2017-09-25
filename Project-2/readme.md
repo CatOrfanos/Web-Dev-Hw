@@ -1,35 +1,41 @@
 >**Starting my Seond Project**
 ___
->>*By: Catherine Orfanos *
+>>*By: Catherine Orfanos*
 >>>**What I've Leanred this week:**
->>>>
-1. Reading all the information on the website and following the instructions. I've created my readme and my index.html and saved them in my project 2 folder.
-2. I Read about how to and why we leave comments in code
-  3. Messages
-  4. Reminders
-  5. ToDo
-  6. Notes
-  7. Testing
-3. I Read about document elements
-  4. Doc Type
-  5. Root Element
-  6. Head Element
-  7. Body Element
-4. I Read about Declaring a doc type
-5. I Read about the Stucture of Pages
-6. I Learned about Attributes
-  7. Provide additional information about an HTML element
-  8. Languages (US-English vs. French)
-  9. URL links for text
-  10.The size to display a picture
-  11. Ways of identifying specific elements
-7. I Learned about Stuctual Markup
-  8. headings
-  9. paragraphs
-  10. breaks
-  11. lists
-8. I learned about Sematic Markup
-  9. The emphaisis the the writen text
+- Reading all the information on the website and following the instructions. I've created my readme and my index.html and saved them in my project 2 folder.
+
+
+- I Read about how to and why we leave comments in code
+  1. Messages
+  2. Reminders
+  3. ToDo
+  4. Notes
+  5. Testing
+
+
+-I Read about document elements
+  1. Doc Type
+  2. Root Element
+  3. Head Element
+  4. Body Element
+
+- I Read about Declaring a doc type
+- I Read about the Stucture of Pages
+- I Learned about Attributes:
+  1. Provide additional information about an HTML element
+  2. Languages (US-English vs. French)
+  3. URL links for text
+  4.The size to display a picture
+  5. Ways of identifying specific elements
+
+- I Learned about Stuctual Markup
+  1. headings
+  2. paragraphs
+  3. breaks
+  4. lists
+
+- I learned about Sematic Markup
+  1. The emphaisis the the writen text
 
 >>>**And Now its time to Start My porject!**
 >>>>I am going to be making my porject about "How to make the best brownies!"
@@ -37,5 +43,3 @@ ___
 - I also am struggleing to figure out how to link website again! ugh!!!
 - Ok, well now I have fugured out the link, I was accedently typing in the wrong link basically and didn't realized that CAPS mattered!
   - But now I went back in to update some of my work, and the link isn't updating, so I'm not sure if it just takes a second to do? or if I did domthing wrong!
-
-    
