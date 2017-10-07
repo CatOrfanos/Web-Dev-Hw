@@ -42,4 +42,6 @@ First I need to do some research on my topic and start with the basic first few 
 - But now I went back in to update some of my work, and the link isn't updating, so I'm not sure if it just takes a second to do? or if I did domthing wrong!
 - It ended up updating and ive gone back and made a few changes with my content
 
-#### Overall I thought this assignment went pretty smooth for me. I had a few bumps but was able to probelm solve on my own. I am excited to get into more code to make our websites even cooler looking! 
+#### Overall I thought this assignment went pretty smooth for me. I had a few bumps but was able to probelm solve on my own. I am excited to get into more code to make our websites even cooler looking!
+
+# **Starting HW-02**
