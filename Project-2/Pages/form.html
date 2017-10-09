@@ -3,7 +3,6 @@
 <html>
     <head>
       <img src="/Images/PAN.jpg"
-
         <title>**Please take the time to let us know how you enjoyed the recipe, and how we can improve going forward!** </title>
     </head>
     <body>
@@ -30,11 +29,71 @@
 </select>
 </form>
 
+<form action="https://www.example.com/profile.php" mehod="post" id="example-form" class="form-class">
+   <p>Plese select your favorite part of the brownie making process:
+      <br />
+   <input type="radio" name="genre" value="Prepping" /> Prepping
+      <br />
+   <input type="radio" name="genre" value="Eating" checked="Eating" /> Eating
+      <br />
+   <input type="radio" name="genre" value="Mixing" /> Mixing
+      <br />
+  </p>
+</form>
+
+<form action="http://www.example.com/profile.php" mehod="post" id="example-form" class="form-class">
+  <p>Please let us know how we can better our recipe and Brownies making experience:
+     <br />
+   <input type="checkbox" name="service" value="More Detailed Instructions" /> More Detailed Instructions
+     <br />
+   <input type="checkbox" name="service" value="Better instructions for different Sized Pans" /> Better instructions for different Sized Pans
+     <br />
+   <input type="checkbox" name="service" value="No need to Improve, this was GREAT!" checked /> No need to Improve, this was GREAT!
+     <br />
+   <input type="checkbox" name="service" value="Offer healthier alternatives to make this recipe" /> Offer healthier alternatives to make this recipe<br />
+  </p>
+</form>
+
   <p> Please share any other thoughts on how your Brownie Making experience went! </p>
   <textarea name="comments" cols="60" rows="8"> Type comments here...</textarea>
     </body>
 
+    <form action="https://www.example.com" mehod="post" id="example-form" class="form-class">
+     
+       <h1>Want to become apart of the BEST Brownies making family?</h1>
 
+       <h2>Create an Account:</h2>
+
+       <!-- Plain Text Box with a VALUE -->
+       <p>Please create an account with using the format "UM_Firstname".
+       <p>
+          Username:
+          <input type="text" name="username" id="username_input" value="UM_" autofocus />
+       </p>
+
+       <!-- Password Input Box with MAXLENGTH and SIZE-->
+       <p>
+          Password:
+          <input type="password" name="password" maxlength="10" size="10"/>
+       </p>
+
+       <hr />
+
+       <h2>Subscribe to our Mailing List:</h2>
+
+       <!-- Text Input Box with AUTOFOCUS and a PLACEHOLDER -->
+       <p>
+          E-mail:
+          <input type="text" name="email" placeholder="you@site.com" autofocus/>
+       </p>
+
+       <!-- Textarea Input Box with COLS and ROWS -->
+       <p>What other Recipes would you be interested in?</p>
+       <textarea name="comments" cols="6" rows="6" style="min-width:100%">
+          My baking interests are...
+       </textarea>
+
+    </form>
 
     <ul>
       <li><a href="./instructions.html">Back to the Instructions?</a></li>
