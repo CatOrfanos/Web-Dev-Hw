@@ -11,6 +11,15 @@
   <p> this is where the form controls will appear. </p>
 </form>
 
+<form action="http://www.example.com/subscribe.php" method="post">
+    <p>
+        What is your Gender:
+        <input id="male" type="radio" name="gender" value="m">
+        <label for="male">Male</label>
+        <input id="female" type="radio" name="gender" value="f">
+        <label for="female">Female</label>
+    </p>
+</form>
 
 <form>
 <form action="http://www.example.com/subscribe.php"
@@ -91,6 +100,20 @@
           <input type="password" name="password" maxlength="10" size="10"/>
        </p>
 
+       <form action="http://www.example.com/subscribe.php" method="post">
+           <fieldset>
+               <legend>Contact Details</legend>
+               <label>Email:<br />
+                   <input type="text" name="email" /></label>
+               <br />
+               <label>Mobile:<br />
+                   <input type="text" name="mobile" /></label>
+               <br />
+               <label>Telephone:<br />
+                   <input type="text" name="telephone" /></label>
+           </fieldset>
+       </form>
+
        <hr />
 
        <h2>Subscribe to our Mailing List:</h2>
@@ -108,6 +131,10 @@
        </textarea>
 
     </form>
+
+    <form action="http://www.example.com/add.php">
+    <input type="hidden" name="bookmark" value="lyrics" />
+</form>
 
     <ul>
       <li><a href="./instructions.html">Back to the Instructions?</a></li>
