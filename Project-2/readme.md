@@ -52,4 +52,5 @@ First I need to do some research on my topic and start with the basic first few 
 -I was overwhelmed with all the new information we had to learn, and I'm hoping what I've submitted today all looks good, because IO spent alot of time on my site!
 -This week I used the Textbook alot more for help
 -I definetly still need to go back and make sure I really know a few of these new elements, especailly surronding the forms because I kinda jsut winged that and had to go back alot to fix my work!
--
+-I did come across one problem that I didn't have time to look into, for some reason my Form page keeps opening in the middle of tha page and not the top..... so im not sure what I did there
+-Overall I had fun making my website more complex this week and learning about images, tables and forms!
