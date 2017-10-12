@@ -49,8 +49,8 @@ First I need to do some research on my topic and start with the basic first few 
 - This week went by really fast for me. I was very nervous to add new pages and all the new requirments for this weeks HW.
 - I Started fast and didn't have any problem adding the new pages which was nice
 - It was fun to add more to my site and use the new tools we learned, I specifically like the table feature and a few of the form founctions.
-- I was overwhelmed with all the new information we had to learn, and I'm hoping what I've submitted today all looks good, because IO spent alot of time on my site!
--This week I used the Textbook alot more for help
-- I definetly still need to go back and make sure I really know a few of these new elements, especailly surronding the forms because I kinda jsut winged that and had to go back alot to fix my work!
+- I was overwhelmed with all the new information we had to learn, and I'm hoping what I've submitted today all looks good, because I spent alot of time on my site!
+- This week I used the Textbook alot more for help
+- I definetly still need to go back and make sure I really know a few of these new elements, especailly surronding the forms because I kinda just winged that and had to go back alot to fix my work!
 - I did come across one problem that I didn't have time to look into, for some reason my Form page keeps opening in the middle of tha page and not the top..... so im not sure what I did there (Nevermind! I was able to later figure this out!)
 - Overall I had fun making my website more complex this week and learning about images, tables and forms!
