@@ -33,7 +33,7 @@ ___
   1. The emphaisis the the writen text
   2. Things like bold, italics ect.
 
-### **And Now its time to Start My porject! Week 1**
+### **HW-01**
 I am going to be making my porject about "How to make the best brownies!"
 First I need to do some research on my topic and start with the basic first few lines of my index.html. The doctype and my title. I am getting slightly confused with the head and body lables.... and Im not sure if I am doing them **correctly!**
 -I am having a fun tiume creating my website and using sematic markup to make my words pop!
@@ -44,7 +44,7 @@ First I need to do some research on my topic and start with the basic first few 
 
 #### Overall I thought this assignment went pretty smooth for me. I had a few bumps but was able to probelm solve on my own. I am excited to get into more code to make our websites even cooler looking!
 
-# **Starting HW-02: Week 2**
+### **HW-02**
 
 - This week went by really fast for me. I was very nervous to add new pages and all the new requirments for this weeks HW.
 - I Started fast and didn't have any problem adding the new pages which was nice
@@ -54,3 +54,11 @@ First I need to do some research on my topic and start with the basic first few 
 - I definetly still need to go back and make sure I really know a few of these new elements, especailly surronding the forms because I kinda just winged that and had to go back alot to fix my work!
 - I did come across one problem that I didn't have time to look into, for some reason my Form page keeps opening in the middle of tha page and not the top..... so im not sure what I did there (Nevermind! I was able to later figure this out!)
 - Overall I had fun making my website more complex this week and learning about images, tables and forms!
+
+### **HW-03**
+- This week we review on why we labled our pages the way we did in the past and had a refresher on index.html files and URLs
+- We also reviewed hwo to makes comments in code, this is somthing I did impliment into my work. I typically like to comment messages of what was required for the page at the top, so I had it handy. I also did try testing a few times when I was looking for errors.
+- We then reviewed document elements
+- Reviewed how to declare the doc type
+- Reviewed the structure and elements
+- 
