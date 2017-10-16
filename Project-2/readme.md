@@ -56,9 +56,30 @@ First I need to do some research on my topic and start with the basic first few 
 - Overall I had fun making my website more complex this week and learning about images, tables and forms!
 
 ### **HW-03**
-- This week we review on why we labled our pages the way we did in the past and had a refresher on index.html files and URLs
-- We also reviewed hwo to makes comments in code, this is somthing I did impliment into my work. I typically like to comment messages of what was required for the page at the top, so I had it handy. I also did try testing a few times when I was looking for errors.
-- We then reviewed document elements
-- Reviewed how to declare the doc type
-- Reviewed the structure and elements
-- 
+So far In this project we have completed:
+##### The Basics of HTML, Including:
+- Elements
+- Tags
+  -  Attributes
+  -  Opening and Closing Tags
+  -  Empty Tags
+
+##### The Basic Structure of an HTML Document:
+-  The HTML Element
+-  The Head and Body Elements
+
+
+##### Structural vs. Semantic Elements
+##### Nesting Elements
+##### Linking to Other Files (i.e. Images)
+##### User Input
+
+This week We start the 3rd and final part to our project and we are creating an about and a more info page. This week we started by learning:
+- The 3 Ms
+- The ID Attribute
+
+###### Starting My HW-03
+
+-  I First created our two new pages, I was concered going into this week, because last week was sort of hard for me, and this week we are learning even more!
+- The more info page went pretty easy for me, which was nice!
+- I did struggle with the ID attribute process
