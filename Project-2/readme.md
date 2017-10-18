@@ -82,4 +82,5 @@ This week We start the 3rd and final part to our project and we are creating an 
 
 -  I First created our two new pages, I was concered going into this week, because last week was sort of hard for me, and this week we are learning even more!
 - The more info page went pretty easy for me, which was nice!
-- I did struggle with the ID attribute process
+- I did struggle with the ID attribute process, because i'm not really sure what they do
+- I was excited to add some fun elements so I learned how to add a background and some borders! I can't wait to learn more ways to make my site look even better
