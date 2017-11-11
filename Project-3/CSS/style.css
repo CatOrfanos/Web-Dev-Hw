@@ -10,4 +10,19 @@
   <body>
     <!-- Page Content -->
   </body>
+
+  .parent-1 {
+     background-color: #95212c;
+     padding: 1em;
+     margin: 1em;
+  }
+
+  .parent-2 {
+    text-indent: 1.5em;
+    background-color: #95212c;
+    color: white;
+    padding: 1em;
+
+
+
 </html>
