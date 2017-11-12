@@ -35,4 +35,4 @@ Laying out my ideas:
 ![LOFT](./Images/LOFT.jpeg)
 ![MUSIC](./Images/MUSIC.jpeg)
 
-**Week 2** This week I started the creation of my new repo!
+**Week 2** This week I started the creation of my new repo!I got VERY behind in my creation of this project because of a concussion, so I am trying my best to get this all done. This week has been crazy, because Im trying to do it all on my own without throughly reading everything :/
