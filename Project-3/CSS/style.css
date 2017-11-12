@@ -38,7 +38,7 @@ nav ul {
   margin-left: 30px;
   font-size: 24px;
   text-align: center;
-  padding-right: 30px;
+  padding-right: 20px;
   text-align: center;
 }
 
@@ -61,7 +61,7 @@ nav a {
   color: #ffffff;
   padding: 30px;
   text-transform: uppercase;
-  text-shadow: 2px 2px #000000;
+  text-shadow: 0px 0px #000000;
 }
 
 .content {
@@ -80,15 +80,15 @@ main {
 aside {
   background-color: #FFF7DA;
   flex: 1 1 auto;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border-radius: 10px;
+  border-radius: 0px;
   border-style: solid;
   border-color: #fbcf61;
-  border-width: 2.5px;
+  border-width: 0px;
 }
 
 footer{
@@ -120,18 +120,18 @@ h2 {
   font-size: 30px;
 }
 
-.paragraph-1, paragraph-2 {
-  font-family: 'Barlow', sans-serif;
+.paragraph1, paragraph2 {
+  font-family: 'Open Sans Condensed', sans-serif;
   color: #000000;
   text-indent: 1.5em;
   font-size: 20px;
 }
 
-.paragraph-1::first-letter {
+.paragraph1::first-letter {
   font-size: 3em;
 }
 
-.paragraph-2::first-letter {
+.paragraph2::first-letter {
   font-size: 3em;
 }
 
@@ -145,13 +145,13 @@ p {
 
 .review {
   color: black;
-  font-family: 'Barlow', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-style: italic;
 }
 
 .funfact{
   color: black;
-  font-family: 'Barlow', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-style: italic;
 }
 

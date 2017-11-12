@@ -16,7 +16,7 @@
 @import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
 @import url('https://fonts.googleapis.com/css?family=Barlow|Open+Sans+Condensed:300');
-
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
 
 <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
 
@@ -52,4 +52,12 @@
                 url('../fonts/OpenSansCondensed-Light.ttf') format('opentype');
             font-weight: normal;
             font-style: normal;
+          }
+
+          @font-face {
+            font-family: 'Gloria_Hallelujah', cursive;
+              src:
+                  url('../fonts/GloriaHallelujah.ttf') format('opentype');
+              font-weight: normal;
+              font-style: normal;
           }
