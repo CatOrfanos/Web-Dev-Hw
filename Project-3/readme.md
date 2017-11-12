@@ -25,8 +25,9 @@ This first I learned about:
 Laying out my ideas:
 1. What type of writer’s site do you think you’ll make? **Book showcase on my faveorite book from when I was a kid!**
 2. Where will you get your material? **from this [site](http://www.umich.edu/~childlit/Weslandia/WESTframeset1.htm)**
-3. What will you say about the author, even if it’s yourself? **I will talk about how creative the author is and the fun story line in the book**
-4. Include an image of your color palette. You should have 2-6 colors max! #006598 #82b440 #95212c #fbcf61
+3. What will you say about the author, even if it’s yourself? **I will talk about how creative the author is and also the fun story line in the book**
+4. Include an image of your color palette. You should have 2-6 colors max! #006598 #82b440 #95212c #fbcf61 and #FFFFE0
+
 5. My Inspiration:
 ![COVER](./Images/COVER.png)
 ![DESK](./Images/DESK.jpeg)
