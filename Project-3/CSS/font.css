@@ -14,11 +14,24 @@
 
 <style>
 @import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
+<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+
 </style>
 
 @font-face {
   font-family: 'Annie Use Your Telescope', cursive;
     src:
-        url('../fonts/Arvo-Regular.ttf') format('opentype');
+        url('../fonts/AnnieUseYourTelescope.ttf') format('opentype');
     font-weight: normal;
     font-style: normal;
+}
+
+    @font-face {
+      font-family: 'Shadows Into Light', cursive;
+        src:
+            url('../fonts/ShadowsIntoLight.ttf') format('opentype');
+        font-weight: normal;
+        font-style: normal;
+      }
