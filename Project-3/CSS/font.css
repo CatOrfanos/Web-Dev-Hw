@@ -55,6 +55,16 @@
           }
 
           @font-face {
+            font-family: 'Open Sans Condensed', sans-serif;
+              src:
+                  url('../fonts/OpenSansCondensed-LightItalic.ttf') format('opentype');
+              font-weight: normal;
+              font-style: italic;
+            }
+
+
+
+          @font-face {
             font-family: 'Gloria_Hallelujah', cursive;
               src:
                   url('../fonts/GloriaHallelujah.ttf') format('opentype');

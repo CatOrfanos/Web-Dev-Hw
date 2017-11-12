@@ -80,7 +80,7 @@ main {
 aside {
   background-color: #FFF7DA;
   flex: 1 1 auto;
-  padding: 10px;
+  padding: 30px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -120,7 +120,7 @@ h2 {
   font-size: 30px;
 }
 
-.paragraph1, paragraph2 {
+.paragraph1, .paragraph2, .paragraph3{
   font-family: 'Open Sans Condensed', sans-serif;
   color: #000000;
   text-indent: 1.5em;
@@ -146,10 +146,16 @@ p {
 .review {
   color: black;
   font-family: 'Open Sans Condensed', sans-serif;
-  font-style: italic;
+  font-style: none;
 }
 
-.funfact{
+.content{
+  color: black;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-style: none;
+}
+
+.endnote{
   color: black;
   font-family: 'Open Sans Condensed', sans-serif;
   font-style: italic;
