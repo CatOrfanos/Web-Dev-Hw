@@ -29,7 +29,7 @@ nav {
   width: 100%;
   height: 50px;
   background-color: #82b440;
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Barlow', sans-serif;
   font-style: none;
   line-height: 55px;
 }
@@ -103,7 +103,7 @@ footer{
 }
 
 h1 {
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Barlow', sans-serif;
   color: rgb(255, 255, 255);
   text-align: center;
   text-transform: capitalize;
@@ -112,7 +112,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Barlow', sans-serif;
   color: #rgb(255, 255, 255);
   text-align: center;
   text-transform: capitalize;
@@ -121,7 +121,7 @@ h2 {
 }
 
 .paragraph-1, paragraph-2 {
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Barlow', sans-serif;
   color: #000000;
   text-indent: 1.5em;
   font-size: 20px;
@@ -145,13 +145,13 @@ p {
 
 .review {
   color: black;
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Barlow', sans-serif;
   font-style: italic;
 }
 
 .funfact{
   color: black;
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Barlow', sans-serif;
   font-style: italic;
 }
 

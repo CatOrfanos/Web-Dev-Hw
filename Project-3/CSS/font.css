@@ -15,6 +15,8 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+@import url('https://fonts.googleapis.com/css?family=Barlow|Open+Sans+Condensed:300');
+
 
 <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
 
@@ -35,3 +37,19 @@
         font-weight: normal;
         font-style: normal;
       }
+
+      @font-face {
+        font-family: 'Barlow', sans-serif;
+          src:
+              url('../fonts/Barlow-Black.ttf') format('opentype');
+          font-weight: normal;
+          font-style: normal;
+        }
+
+        @font-face {
+          font-family: 'Open Sans Condensed', sans-serif;
+            src:
+                url('../fonts/OpenSansCondensed-Light.ttf') format('opentype');
+            font-weight: normal;
+            font-style: normal;
+          }
