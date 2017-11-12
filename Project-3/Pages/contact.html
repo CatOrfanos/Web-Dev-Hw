@@ -18,25 +18,63 @@
 
 <h1> Contact Page </h1>
 
-<p> Questions or Comments </p>
-  <textarea name="comments" cols="60" rows="8"> Type comments here...</textarea>
+<title>Contact</title>
+</head>
 
-  <h2 style="color: pink">Contact the Author:</h2>
-         <form action="http://www.example.com/subscribe.php" method="post">
-         <fieldset>
-             <legend>Create An Account:</legend>
-         <!-- Plain Text Box with a VALUE -->
-         <p>Please create a Username (6 Characters or more)
-         <p>
-            Username:
-            <input type="text" name="username" id="username_input" value="UM_"/>
-         </p>
+<body>
+ <header>
+   <h1><strong>Contact</strong></h1>
+ </header>
+ <!--Navigation List-->
+ <nav>
+ <ul id="nav-list" class="navigation">
+   <li><a href="../index.html">Home</a></li>
+   <li><a href="./about.html">About</a></li>
+   <li><a href="./sample.html">Sample</a></li>
+   <li><a href="./contact.html">Contact</a></li>
+ </ul>
+</nav>
 
-         <!-- Password Input Box with MAXLENGTH and SIZE-->
+
+<div class="content">
+<aside>
+
+
+</aside>
+
+   <main>
+     <h2>Learn More</h2>
+       <div class="paragraph-1">
+       <p> Please share your thoughts and feel free to contact us about any questions or comments on the book! </p>
+
+     <div id="contact" class="contact">
+       <form action="http://www.example.com/comments.php" method="post">
+
+         <p>Name:
+         <input type="text" name="name" id="name_input"
+         value="ex. Wesley" autofocus></p>
+         <p>E-mail Address:
+         <input type="text" name="email" id="email-input"
+         value="example@gmail.com"></p>
+
          <p>
-            Password:
-            <input type="password" name="password" maxlength="10" size="10"/>
+           What do you think of "WESTLANDIA"?
          </p>
+         <textarea name="comments" cols="6" rows="6"
+         style="min-width:50%">
+           Comment here...
+         </textarea>
+         <br />
+         <input type="submit" name="submit" value="submit">
+         </form>
+
+
+     </div>
+
+
+   </main>
+
+
 
   </body>
 </html>
