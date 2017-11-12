@@ -12,6 +12,13 @@
   </body>
 </html>
 
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600');
+<style>
+@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
+</style>
 
-@import url('https://fonts.googleapis.com/css?family=Lora');
+@font-face {
+  font-family: 'Annie Use Your Telescope', cursive;
+    src:
+        url('../fonts/Arvo-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
