@@ -129,13 +129,10 @@ h2 {
   font-size: 20px;
 }
 
-.paragraph1::first-letter {
-  font-size: 3em;
+.paragraph1, .paragraph2, .paragraph3::first-letter {
+  font-size: 2em;
 }
 
-.paragraph2::first-letter {
-  font-size: 3em;
-}
 
 p {
   display: block;
