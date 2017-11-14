@@ -168,17 +168,18 @@ div {
 .button {
   font-size: 1em;
   color: white;
-  background-color: #95212c;
+  background-color: #fbcf61
   border-color: ;
   border-style: none;
-  position: relative;
-  margin: 10em;
-  width: 20em;
+  position: absolute;
+  bottom: 50px;
+  margin: auto;
+  width: 5em;
   text-align: center;
 }
 
 .button:hover {
-  color: #fbcf61 ;
+  color: #95212c ;
   font-style: normal;
 }
 
