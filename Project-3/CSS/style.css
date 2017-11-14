@@ -194,9 +194,10 @@ div {
 .site-logo {
     font-size: 1em;
     float: center;
-    padding: 10px 10px;
+    padding: 3px 3px;
 }
 
 .site-logo img {
-    height: 50px;
+    height: 10px;
+    width: 10px
 }
