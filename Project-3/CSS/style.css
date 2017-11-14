@@ -173,10 +173,10 @@ div {
   border-color: #95212c;
   border-style: none;
   position: absolute;
-  bottom: 50px;
+  bottom: 10px;
   margin: auto;
-  width: 20em;
-  height: 10em;
+  width: 5em;
+  height: 2em;
   text-align: center;
 }
 
