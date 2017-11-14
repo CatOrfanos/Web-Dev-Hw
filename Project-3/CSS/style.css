@@ -81,10 +81,10 @@ aside {
   background-color: #FFF7DA;
   flex: 1 1 auto;
   padding: 30px;
-  text-align: right;
+  text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: right;
+  justify-content: center;
   border-radius: 0px;
   border-style: solid;
   border-color: #fbcf61;
