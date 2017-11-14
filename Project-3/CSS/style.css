@@ -197,3 +197,7 @@ div {
     padding: 15px 10px;
     margin-right: ;
 }
+
+.site-logo img {
+    height: 70px;
+}
