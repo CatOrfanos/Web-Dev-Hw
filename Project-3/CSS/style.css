@@ -167,13 +167,13 @@ div {
 
 .button {
   font-size: 1em;
-  color: black;
-  background-color: #ffffff;
-  border-color: #076c42;
+  color: white;
+  background-color: #95212c;
+  border-color: #fbcf61;
   border-style: solid;
   position: relative;
-  margin: auto;
-  width: 9em;
+  margin: 2em;
+  width: 20em;
   text-align: center;
 }
 
