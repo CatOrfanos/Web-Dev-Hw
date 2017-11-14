@@ -83,7 +83,7 @@ aside {
   padding: 30px;
   text-align: center;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   border-radius: 0px;
   border-style: solid;
@@ -195,7 +195,7 @@ div {
 .site-logo {
     font-size: 4em;
     float: center;
-    padding: .5px .5px;
+    padding: 0px 0px;
 }
 
 .site-logo img {
