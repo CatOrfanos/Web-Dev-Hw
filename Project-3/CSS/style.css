@@ -167,10 +167,10 @@ div {
 }
 
 .button {
-  font-size: 2em;
+  font-size: 3em;
   color: white;
   background-color: #95212c
-  border-color: white;
+  border-color: #95212c;
   border-style: none;
   position: absolute;
   bottom: 50px;
@@ -187,7 +187,7 @@ div {
 
 .parentelement {
   position: absolute;
-  color: black;
+  color: #95212c;
   font-family: 'Open Sans Condensed', sans-serif;
   font-style: none;
 }
