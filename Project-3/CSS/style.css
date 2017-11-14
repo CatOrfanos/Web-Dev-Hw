@@ -185,4 +185,7 @@ div {
 
 .parentelement {
   position: relative;
+  color: black;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-style: none;
 }
