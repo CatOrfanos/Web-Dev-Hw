@@ -67,7 +67,7 @@ nav a {
 .content {
   display: flex;
   flex-direction: column ;
-  width: 90%;
+  width: 70%;
   background-color: #FFF7DA;
 }
 
@@ -81,7 +81,7 @@ main {
 aside {
   background-color: #FFF7DA;
   flex: 1 1 auto;
-  padding: 30px;
+  padding: 50px;
   text-align: center;
   display: flex;
   flex-direction: column;
