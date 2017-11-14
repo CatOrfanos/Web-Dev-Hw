@@ -189,3 +189,11 @@ div {
   font-family: 'Open Sans Condensed', sans-serif;
   font-style: none;
 }
+
+
+.site-logo {
+    font-size: 1em;
+    float: center;
+    padding: 15px 10px;
+    margin-right: ;
+}
