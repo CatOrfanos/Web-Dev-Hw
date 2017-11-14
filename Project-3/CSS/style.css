@@ -194,3 +194,31 @@ div {
     color: #1CCDCA;
     font-style: italic;
 }
+
+
+.container {
+
+margin-top: -2em;
+  margin-left: 10em;
+   float: left;
+    clear: right;
+    text-align: center;
+   z-index: 5;
+   position: relative;
+}
+.scrollDn {
+font-size: 38pt;
+color:#FFF5BF ;
+
+ }
+
+.scrollDn:hover {
+  color:rgb(190, 0, 0);
+}
+
+.scrollTxt {
+padding-top: 1em;
+color: #FFF5BF ;
+
+
+}
