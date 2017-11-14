@@ -172,14 +172,14 @@ div {
   border-color: ;
   border-style: none;
   position: relative;
-  margin: 2em;
+  margin: 10em;
   width: 20em;
   text-align: center;
 }
 
 .button:hover {
-  color: #95212c;
-  font-style: italic;
+  color: #fbcf61 ;
+  font-style: normal;
 }
 
 .element-1 {
