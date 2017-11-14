@@ -169,8 +169,8 @@ div {
   font-size: 1em;
   color: white;
   background-color: #95212c;
-  border-color: #fbcf61;
-  border-style: solid;
+  border-color: ;
+  border-style: none;
   position: relative;
   margin: 2em;
   width: 20em;
@@ -178,7 +178,7 @@ div {
 }
 
 .button:hover {
-  color: #076c42;
+  color: #95212c;
   font-style: italic;
 }
 
