@@ -166,15 +166,16 @@ div {
 }
 
 .button {
-  font-size: 1em;
+  font-size: 2em;
   color: white;
   background-color: #fbcf61
-  border-color: ;
+  border-color: none;
   border-style: none;
   position: absolute;
   bottom: 50px;
   margin: auto;
-  width: 5em;
+  width: 20em;
+  height: 10em
   text-align: center;
 }
 
@@ -184,7 +185,7 @@ div {
 }
 
 .parentelement {
-  position: relative;
+  position: absolute;
   color: black;
   font-family: 'Open Sans Condensed', sans-serif;
   font-style: none;
