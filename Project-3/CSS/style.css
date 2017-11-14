@@ -66,8 +66,8 @@ nav a {
 
 .content {
   display: flex;
-  flex-direction: column ;
-  width: 90%;
+  flex-direction: row ;
+  width: 100%;
 }
 
 main {
@@ -80,10 +80,10 @@ main {
 aside {
   background-color: #FFF7DA;
   flex: 1 1 auto;
-  padding: 30px;
+  padding: 20px;
   text-align: center;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   border-radius: 0px;
   border-style: solid;
@@ -194,7 +194,7 @@ div {
 .site-logo {
     font-size: 4em;
     float: center;
-    padding: 3px 3px;
+    padding: .5px .5px;
 }
 
 .site-logo img {
