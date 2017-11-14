@@ -1,26 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="Catherine Orfanos">
-    <meta name="description" content="FONTS Style Page?">
-    <title>FONTS Page</title>
-  </head>
-  <body>
-    <!-- Page Content -->
-  </body>
-</html>
-
-<style>
 @import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
 @import url('https://fonts.googleapis.com/css?family=Barlow|Open+Sans+Condensed:300');
 @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
 
-<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+/*<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">*/
 
-</style>
 
 @font-face {
   font-family: 'Annie Use Your Telescope', cursive;
