@@ -156,42 +156,6 @@ h3 {
 }
 
 
-/*div {
-  display: block;
-}*/
-
-.button {
-  font-size: 3em;
-  color: white;
-  background-color: #95212c;
-  border-color: #95212c;
-  border-style: none;
-  position: relative;
-  width: 3em;
-  height: 2em;
-  text-align: center;
-}
-
-.button p {
-  margin: 2em auto;
-  color: #fff;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-style: none;/
-}
-
-.button:hover {
-  background-color: #fbcf61;
-  font-style: normal;
-}
-
-.parentelement {
-  position: absolute;
-  color: #95212c;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-style: none;
-}
-
-
 .site-logo {
     font-size: 4em;
     float: center;
@@ -218,4 +182,22 @@ h3 {
    width: 300px;
    height: 300px;
    background-color: rgba(255,255,255,.5)
+}
+
+.button {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1em;
+  color: white;
+  background-color: #95212c;
+  border-color: #95212c;
+  border-style: solid;
+  position: relative;
+  margin: auto;
+  width: 9em;
+  text-align: center;
+}
+
+.button:hover {
+  color: #fbcf61;
+  font-style: none;
 }
