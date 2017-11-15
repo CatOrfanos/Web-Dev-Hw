@@ -54,7 +54,7 @@ nav a {
 main {
   background-color: #FFF7DA;
   padding: 50px;
-  position: absolute;
+position: absolute;
 }
 
 .content {
@@ -62,6 +62,7 @@ main {
   background-color: #FFF7DA;
   width: 100%;
   max-width: 800px;
+  /*position: relative;*/
 }
 
 aside {
@@ -75,7 +76,10 @@ aside {
   border-width: 50px;
   min-width: 300px;
   float: right;
+  /*position: relative;*/
 }
+
+
 
 footer{
   text-align: center;
