@@ -1,9 +1,9 @@
 # **PROJECT 3**
 Catherine Orfanos
 ___
-***Disclaimer:*** my site may look very different on your screen! I noticed after I had finsihed that when I make my sreen smaller my pitcures hide behind my text!!!! :( I am still working on fixing that bug! If anyone also encountered this problem and was about to find a work around please let me know! Thanks and enjoy!
+***Disclaimer:*** my live site may look very different on your screen! I noticed after I had finsihed that when I make my sreen smaller my pitcures hide behind my text!!!! :( I am still working on fixing that bug! If anyone also encountered this problem and was about to find a work around please let me know! Thanks and enjoy!
 
-This site (https://codepen.io/CrocoDillon/pen/kmGCw) almsot helped me fix it, but I was unable to make it work for my content. 
+This site (https://codepen.io/CrocoDillon/pen/kmGCw) almsot helped me fix it, but I was unable to make it work for my content.
 
 ### **Week 1:** This week we started to learn more about CSS
 
