@@ -51,6 +51,44 @@ nav a {
   text-shadow: 0px 0px #000000;
 }
 
+.dropdownitem li a:active{
+  color: #95212c;
+}
+
+.dropdown {
+    display: inline-block;
+
+}
+.dropdowncontent {
+    display: none;
+    position: absolute;
+
+    color: #ffffff;
+    background-color: #82b440;
+    z-index: 1;
+}
+.dropdowncontent a {
+    color: #ffffff;
+    font-family: 'Barlow', sans-serif;
+
+
+}
+.dropdown:hover .dropdowncontent {
+    display: block;
+    text-align: center;
+}
+
+.dropdownitem {
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+}
+
+.dropdownitem:hover, .dropdownitem:hover a {
+    color: white;
+    background-color: #fbcf61;
+}
+
 main {
   background-color: #FFF7DA;
   padding: 50px;
