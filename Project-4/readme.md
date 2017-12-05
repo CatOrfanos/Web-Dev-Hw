@@ -48,3 +48,5 @@ Colors:
 2. Identify Possible Structure
 3. Start to Build the Site with HTML and CSS
 4. Test my Site on differnet interfaces
+
+Update 1: So far so good with my first attempt at creating this page! Changes I need to make before in my next steps, include making the picture size smaller, adding a navigation bar and deveopling my text content more! Also my first test on my phone screen works pretty good! almost better than my desktop version
