@@ -131,9 +131,22 @@ p1{
      .footer {
         width: 100%;
 	}
+
+  .leftcontent2 {
+    width: 100%;
 }
+   .rightcontent2  {
+      width: 100%;
+}
+   .footer2 {
+      width: 100%;
+}
+}
+
 
 img {
     height: 400px;
     width: 550px
 }
+
+@media .rightcontent img (max-width: 400px) (min-width:400px)
