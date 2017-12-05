@@ -1,0 +1,26 @@
+/*My FONTS*/
+
+@import url('https://fonts.googleapis.com/css?family=Barlow|Open+Sans+Condensed:300');
+
+@font-face {
+  font-family: 'Barlow', sans-serif;
+    src:
+        url('../fonts/Barlow-Black.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Open Sans Condensed', sans-serif;
+      src:
+          url('../fonts/OpenSansCondensed-Light.ttf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
+  @font-face {
+    font-family: 'Open Sans Condensed', sans-serif;
+      src:
+          url('../fonts/OpenSansCondensed-LightItalic.ttf') format('opentype');
+      font-weight: normal;
+      font-style: italic;
+    }
