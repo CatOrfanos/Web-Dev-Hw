@@ -39,11 +39,11 @@ Fonts I am going to Use:
 - Open+Sans+Condensed
 
 Colors:
-- #8dc5d1
-- #f7ee42
-- #e6922f
-- #b8436b
-- #adadad
+#8dc5d1
+#f7ee42
+#e6922f
+#b8436b
+#adadad
 
 **SITE INFO:**
 
