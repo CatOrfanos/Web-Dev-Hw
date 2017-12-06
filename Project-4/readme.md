@@ -18,9 +18,9 @@ Content:
 Definition:
 
 Media Items I will include:
-- ![Title Picture](./Images/title.png)
-- ![Layout Example](./Images/layout.jpg)
-- ![Quote](./Images/water.jpg)
+![Title Picture](./Images/title.png)
+![Layout Example](./Images/layout.jpg)
+
 
 Fonts I am going to Use:
 - Barlow

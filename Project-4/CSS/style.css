@@ -10,6 +10,13 @@ p{
     font-weight: 600;
 }
 
+ol{
+  padding: 0 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+}
+
 h1{
     font-family: 'Barlow', sans-serif;
     font-size: 34px;
@@ -62,10 +69,11 @@ p1{
 .leftcontent {
 	background-color:#8dc5d1;
 	width: 50%;
-	text-align: center;
+	text-align: left;
 	order: 2;
-	align-content: center;
+	align-content: left;
 	height: auto;
+
     color: white;
 
 }
@@ -145,8 +153,5 @@ p1{
 
 
 img {
-    height: 400px;
-    width: 550px
+    max-width: 100%
 }
-
-@media .rightcontent img (max-width: 400px) (min-width:400px)
